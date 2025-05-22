@@ -1,0 +1,8 @@
+[package]
+name = "tutorial_timer"
+version = "0.1.0"
+edition = "2024"
+authors = ["Arief Ridzki Darmawan"]
+
+[dependencies]
+futures = "0.3"
